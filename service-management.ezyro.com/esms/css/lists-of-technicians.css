@@ -1,0 +1,72 @@
+.container000{
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: fixed;
+    top: 0;
+    z-index: 2000;
+    justify-content: center;
+    align-items: center;
+    display: none;
+}
+.container000 .wrapper000{
+    background-color: white;
+    padding: 20px 20px 30px 20px;
+    position: relative;
+}
+.save-wrapper{
+    width: 100%;
+    text-align: center;
+}
+.save-button{
+    width: 80%;
+}
+.close{
+    position: absolute;
+    right: 20px;
+}
+.close button{
+    color: blue;
+}
+.close button:hover{
+    color: red;
+}
+.crud-button{
+    width: 100%;
+}
+
+
+.container001{
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: fixed;
+    top: 0;
+    z-index: 2000;
+    justify-content: center;
+    align-items: center;
+    display: none;
+    overflow: auto;
+}
+.container001 .wrapper001{
+    background-color: white;
+    padding: 20px 20px 30px 20px;
+    position: relative;
+}
+.save-wrapper{
+    width: 100%;
+    text-align: center;
+}
+.save-button{
+    width: 80%;
+}
+.close{
+    position: absolute;
+    right: 20px;
+}
+.close button{
+    color: blue;
+}
+.close button:hover{
+    color: red;
+}
